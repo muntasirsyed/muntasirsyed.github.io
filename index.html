@@ -8,16 +8,18 @@
 		<title>Muntasir Syed</title>
 	</head>
 	<style media="screen">
+		#content {
+		    display:none;
+		}
 		body {
 			font-family: 'Lato', sans-serif;
 		}
-
 		h3 {
 			margin-top: 125px;
 		}
 	</style>
 	<body>
-		<div class="row">
+		<div class="row" id="content">
 			<div class="col-lg-3 col-md-3 col-xs-2">
 
 			</div>
@@ -34,6 +36,12 @@
 			</div>
 		</div>
 
+		<script src="http://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+		<script>
+		    jQuery(window).load(function () {
+			  $('#content').fadeIn();
+		    });
+		</script>
 	</body>
 </html>
