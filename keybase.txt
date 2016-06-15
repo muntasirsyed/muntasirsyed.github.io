@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/muntasirsyed
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://muntasirsyed.com
+  * I am muntasirsyed (https://keybase.io/muntasirsyed) on keybase.
+  * I have a public key with fingerprint 9457 3D72 622B 146F 7191  3AC5 53E9 318F C96C 280C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015abe5e2c51242d49ac0d21f69affcc4e258df0db341bbc026c2d290e9733b6960a",
+            "fingerprint": "94573d72622b146f71913ac553e9318fc96c280c",
+            "host": "keybase.io",
+            "key_id": "53e9318fc96c280c",
+            "kid": "01015abe5e2c51242d49ac0d21f69affcc4e258df0db341bbc026c2d290e9733b6960a",
+            "uid": "1c804635f3917a05d28886a7a2c3c919",
+            "username": "muntasirsyed"
+        },
+        "service": {
+            "hostname": "muntasirsyed.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1465954961,
+    "expire_in": 157680000,
+    "prev": "789a498654894447cfecefdcf75d7e50afd90515988006e5bef63744942d6f0f",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrZJfSBRBHMfPP2kaooUVFaEs+KJy7L/Z3TkMLZRKKSQhRYxrd3ZWl9Pd
+a281Ta988K0MqxcRSZSIyhROKn05U5OkLA6DwMCiPJNEFPFP0Is2K/XWY/MyzPy+
+3898fz9mMiXOlRwzX+FdWX8U1mOmx+/Xu8ovD91pphRTbaI8zZQP7264VsUB2+vT
+VcpD0QzNAFnBALMIMCzPqjyUEa2yjCZAWdMQ4jELJFWjVYXjGUVBNCsgVmUhjaHI
+cYoABVqmcilNN6qx5bd0wyZYyAORU0VWYFmF4QVNZCDDyQgADkOOkTQECUSiETHW
+mAHHQcIpcgC7dZPckYN3N94/9P85d/0ujkESzQsc0DjIiDINVFaSJEEWZRZxCDLQ
+EQawZch1mKjr6g1bDuhWoAmrVDCXIpUGHWFnuE43/1C5kVlHGH7LtE1k1pJqjW37
+PY7ZbvI76qtY8f7heBXdUMk4iaEBWwHdNCgPQ5TI1h0wmSeAgIcCk0vhRr9uYa/u
+KIAoSDRZzjO4gSBFCco8lATAS5DneRFpGGFNRZoIVBEDWtZUSAMGQIn4BAwUrAmc
+yPOQTFPQaI1yOrtimJSHJzHlaoIM6NWGbNdbmApOjFXFu2KSXQl7Yp1v5kpOSvv7
++VIWE3da/C5hqWR4feyanylY3j7W2ttXUZnZVuye2Xo5Xvtcw0lli5+2mmezU6cW
+Jp6deFBRPpLeuD6/fPx96kzOTNS6HRm8+KNuDr84HW48n/e4tJT2dnwe6ei40NF3
+UC2bzHy9EyqKjlYkRXK+91yPnjnpif9a4H260rIqVb0Kpi1OrY/szD7cjIS+bIUz
+82OHMwass52HV/MapzeoAVx4aaM/7levJ6O4muvadt1bShxt614olDv3lRxq3eh5
+E9pb1b7Zl3/jaKvhm+uuPPdkf8LbtczZ9HdtRz6eGsnLGrrZn70WsWNcoeIPBe5Q
+1q2+wXbf0re7eT/DXQeKolPxK8HfD49NsA==
+=mkvJ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/muntasirsyed
+
+==================================================================
